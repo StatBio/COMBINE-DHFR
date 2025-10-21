@@ -6,7 +6,7 @@
 
 ## Overview
 
-This repository contains the code used to generate the figures presented in the associated publication concerning the prediction of the compensatory mutation within the allosteric network of *E. coli* DHFR.
+This repository contains the code used for the prediction of the compensatory mutation within the allosteric network of *E. coli* DHFR. The method is named COMBINE for COmpensatory Mutations via Boltzmann machine INference of Epistasis.
 
 ---
 
