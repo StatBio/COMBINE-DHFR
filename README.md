@@ -12,7 +12,7 @@ This repository contains the code used for the prediction of the compensatory mu
 
 ## Contents
 
-- **`Data/`** — Contains the MSA and the models used for prediction. Note that the MSA is taken from Thompson et al. 2020 (https://doi.org/10.7554/eLife.53476).
+- **`data/`** — Contains the MSA and the models used for prediction. Note that the MSA is taken from Thompson et al. 2020 (https://doi.org/10.7554/eLife.53476).
 - **`utils_COMBINE.py`** — Includes the main functions used to predict compensatory mutations.  
 - **`COMBINE_DHFR.ipynb`** — Jupyter notebook that reproduces the analyses and generates the figures shown in the paper.
 
