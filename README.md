@@ -20,7 +20,7 @@ This repository contains the code used for the prediction of the compensatory mu
 
 ## Model Inference
 
-The models provided in this repository were inferred using the code available in a separate repository: https://github.com/marionchv/SBM.  
+The models provided in this repository were inferred using the code available in a separate repository: https://github.com/StatBio/Stochastic-Boltzmann-Machine.  
 Only the resulting models are included here. 
 
 ## Citation
